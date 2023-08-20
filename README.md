@@ -26,8 +26,8 @@ Autómata finito determinista que permite reconocer y validar si una cadena de c
 		| Bien | Mal |
 
 ### Mejoras posibles
-- [] Retornar en sistema decimal el numero romano ingresado.
-- [] Ampliar las reglas lógicas del autómata para reconocer números mayores a 3999 (MMMCMXCIX).
+- [ ] Retornar en sistema decimal el numero romano ingresado.
+- [ ] Ampliar las reglas lógicas del autómata para reconocer números mayores a 3999 (MMMCMXCIX).
 
 ### Aplicación Web
 La aplicación web se encuentra disponible en [**GitHub Pages**](https://augfer.github.io/Minerva/).
